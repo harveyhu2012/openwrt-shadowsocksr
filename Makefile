@@ -5,8 +5,8 @@ PKG_VERSION:=2.5.3
 PKG_RELEASE:=ed6c9eb
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/shadowsocksrr/shadowsocksr-libev.git
-PKG_SOURCE_VERSION:=ed6c9eb12530a7ecbdf3f5801fe59b177fe74779
+PKG_SOURCE_URL:=https://github.com/harveyhu2012/shadowsocksr-libev.git
+PKG_SOURCE_VERSION:=5f2cf2af5c55e0bf5958a9bef65732688a1601ba
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)-$(PKG_SOURCE_VERSION)
 PKG_SOURCE:=$(PKG_SOURCE_SUBDIR).tar.gz
 
